@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingSystem/ViewController.swift"
+            timestampString = "541293157.787129"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingSystem.ViewController.__deallocating_deinit"
+                  moduleName = "ParkingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshisingh/Desktop/ParkingSystem/ParkingSystem/ViewController.swift"
+                  timestampString = "541291349.328603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingSystem.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParkingSystem.ViewController"
+                  moduleName = "ParkingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshisingh/Desktop/ParkingSystem/ParkingSystem/ViewController.swift"
+                  timestampString = "541291349.332961"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingSystem.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParkingSystem.ViewController"
+                  moduleName = "ParkingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshisingh/Desktop/ParkingSystem/ParkingSystem/ViewController.swift"
+                  timestampString = "541291349.3366669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingSystem.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParkingSystem.ViewController&gt;"
+                  moduleName = "ParkingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshisingh/Desktop/ParkingSystem/ParkingSystem/ViewController.swift"
+                  timestampString = "541291349.340646"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingSystem.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParkingSystem.ViewController&gt;"
+                  moduleName = "ParkingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshisingh/Desktop/ParkingSystem/ParkingSystem/ViewController.swift"
+                  timestampString = "541291349.3448451"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
